@@ -1,7 +1,7 @@
 # Robot Fleet Charging System
 
 ## Overview
-An intelligent battery management system for a fleet of 5 robots that optimizes charging schedules based on battery levels and operational requirements.
+An intelligent battery management system for a fleet of 5 robots(can be customised for large fleet also) that optimizes charging schedules based on battery levels and operational requirements.
 
 ## System Goals
 - Maintain at least 3 robots with ≥20% battery
